@@ -46,17 +46,17 @@
 <ol>
   <li>Scikit-learn</li>
   
-    Meachine learning library for Python, which provides algorithms for classification, regression, clustering, and dimensionality
-    reduction, as well as tools for model evaluation and selection.
+    Meachine learning library for Python, which provides algorithms for classification, regression, clustering, and 
+    dimensionality reduction, as well as tools for model evaluation and selection.
   
   <li>TensorFlow</li>
   
-    An open-source library for deep learning developed by Google, which provides tools for building, training, and deploying machine
-    learning models.
+    An open-source library for deep learning developed by Google, which provides tools for building, training, and 
+    deploying machine learning models.
   
   <li>Keras</li>  
   
-    High-level neural network library vuilt on top of TensorFlow, which provides a convenient interface for defining and training deep
-    learning models.
+    High-level neural network library vuilt on top of TensorFlow, which provides a convenient interface for defining and 
+    training deep learning models.
   
 </ol>
