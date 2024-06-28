@@ -60,3 +60,8 @@
     training deep learning models.
   
 </ol>
+
+##Django 
+
+python -m pip install Django
+python -m django --version
