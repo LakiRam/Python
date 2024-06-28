@@ -65,3 +65,20 @@
 
 python -m pip install Django
 python -m django --version
+Using windows command create virtual environment as follows 
+py -3 -m venv .venv .venv/scrits/activate
+
+Create a Django project using the following command
+django-admin startproject web_project .
+
+Create an empty development database with the following command
+python manage.py migrate
+
+Run django project
+python manage.py runserver
+
+create a Django app
+python mange.py startapp <<app_name>>
+
+#VS Code Reference
+1. https://code.visualstudio.com/docs/python/tutorial-django 
