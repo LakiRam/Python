@@ -81,4 +81,8 @@ create a Django app
 python mange.py startapp <<app_name>>
 
 #VS Code Reference
-1. https://code.visualstudio.com/docs/python/tutorial-django 
+1. https://code.visualstudio.com/docs/python/tutorial-django
+2. Django request processing flow
+
+   ![image](https://github.com/LakiRam/Python/assets/94082019/54b22385-4be9-4507-afa3-cfafd16aeaaa)
+
